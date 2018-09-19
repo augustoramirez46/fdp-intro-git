@@ -16,6 +16,8 @@ void draw(){
  fill(150);
  ellipse(bX,bY,bD,bD);
  
+ noFill();
+ rect(0,0,15,20);
   
   
 }
